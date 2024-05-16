@@ -1,0 +1,26 @@
+.auth-form__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.auth-form__form-container {
+  background-color: aqua;
+  height: 500px;
+  min-width: 320px;
+  max-width: 600px;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-form__form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100px;
+  height: 100px;
+}
